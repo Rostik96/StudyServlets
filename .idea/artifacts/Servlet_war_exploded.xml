@@ -13,6 +13,11 @@
         <element id="directory" name="classes">
           <element id="module-output" name="Servlet" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jsp-api:9.0.31" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-el-api:9.0.31" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-servlet-api:9.0.31" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/Servlet-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
